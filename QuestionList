@@ -34,6 +34,46 @@ empid 1003,1005 and 1007 salary should not be displayed.empid 1013 and 1015 2 da
 if entered salary is >20000 then calculation should be performed till 1017.
 
 
+WAP to check divisibility of number that number is divisible by 3 ,5 and 9 in all combination.
+
+
+
+WAP to increase salary of employee with 500 if entered salary is less then 10000 otherwise same salary will be displayed?
+
+
+
+
+ASSIGNMENT of conditional Statement:-
+
+1 WAP to check vowel and consonent without using logical operator?
+
+
+2 WAP to calculate max char from four different chars using nested and ladder ?
+
+
+
+3 WAP to create marksheet of students using five different subject with following condition
+
+1 All subject marks must be 0 to 100?
+
+
+2 if only one subject mark is less then 33 then student will suppl and display suppl subject name.
+
+
+3 if two subject marks is <33 then student will fail,display fail subejct name?
+
+
+4 if all subject marks is >33 then student will pass and display division and distinction subject name?
+
+
+5 if only one subject mark is <28 then student can be pass by five bonus mark ,display grace or bonus mark subject name?
+
+
+
+
+
+
+
 
 
 
