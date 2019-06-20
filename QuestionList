@@ -1,82 +1,32 @@
-
-
-
 WAP to check divisible of number from 3 ,5 and 9 in all combination?
-
 WAP to check greatest using four different number using switch?
-
-
 WAP to check leap year using switch?
-
-
 WAP to check vowel ,consonent using Switch?
-
 WAP to check that entered char is special,numeric or alphanetical using switch?
-
-
 WAP to display "Enter","SHIFT","CTRL","FUNCTIONKEY" when user press these all buttons 
-
-
-
 WAP to reverse String elements?
-
 WAP to convert String from lower case to upper case?
-
 WAP to merge two String in One String?
-
 WAP to check that String is pallindrom or not?
-
-
 WAP to count total numeric char ,special char and alphabets in String.
-
 WAP to display salary of employee where empid will be started from 1001 to 1020 where all employee salary is same.
 empid 1003,1005 and 1007 salary should not be displayed.empid 1013 and 1015 2 days salary should be reduced.
 if entered salary is >20000 then calculation should be performed till 1017.
-
-
 WAP to check divisibility of number that number is divisible by 3 ,5 and 9 in all combination.
-
-
-
 WAP to increase salary of employee with 500 if entered salary is less then 10000 otherwise same salary will be displayed?
-
-
-
-
 ASSIGNMENT of conditional Statement:-
-
 1 WAP to check vowel and consonent without using logical operator?
-
-
 2 WAP to calculate max char from four different chars using nested and ladder ?
-
-
-
 3 WAP to create marksheet of students using five different subject with following condition
-
 1 All subject marks must be 0 to 100?
-
-
 2 if only one subject mark is less then 33 then student will suppl and display suppl subject name.
-
-
 3 if two subject marks is <33 then student will fail,display fail subejct name?
-
-
 4 if all subject marks is >33 then student will pass and display division and distinction subject name?
-
-
 5 if only one subject mark is <28 then student can be pass by five bonus mark ,display grace or bonus mark subject name?
-
-
 1 WAP to print factorial with expression
-
 5    : 5*4*3*2*1=120
-
 2 WAP to check prime number with expression:
-
 5   5%2,5%3,5%4
-
 3 WAP to display table with complete expression
 
   5*1=5
@@ -84,32 +34,19 @@ ASSIGNMENT of conditional Statement:-
   ...........................
 
 4 WAP to print 1 to 10 and 10 to 1 using single while loop?
-
 5 WAP to display data untill user press e.
-
 WAP to calculate factorial?
-
 WAP to check prime number?
-
 WAP to display fabonacci sereies?
-
 WAP to print 1 to 10 and 10 to 1 using single loop?
-
-
 WAP to calculate sum of one digit positive number?
-
-
 Q1 WAP to swap two number without using third variable?
-
 Q2 WAP to reverse five digit number?
 
   12345
 
   54321
-
 Q3 WAP to calculate elctricity bill where unit price and total consumption will be entered by the user?
-
-
 Q4 WAP to perform addition and multiplication of complex number?
 
 3+5i
