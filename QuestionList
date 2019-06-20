@@ -1,4 +1,5 @@
-SWICTH PROGRAM LIST :-
+
+
 
 WAP to check divisible of number from 3 ,5 and 9 in all combination?
 
@@ -14,3 +15,28 @@ WAP to check that entered char is special,numeric or alphanetical using switch?
 
 
 WAP to display "Enter","SHIFT","CTRL","FUNCTIONKEY" when user press these all buttons 
+
+
+
+WAP to reverse String elements?
+
+WAP to convert String from lower case to upper case?
+
+WAP to merge two String in One String?
+
+WAP to check that String is pallindrom or not?
+
+
+WAP to count total numeric char ,special char and alphabets in String.
+
+WAP to display salary of employee where empid will be started from 1001 to 1020 where all employee salary is same.
+empid 1003,1005 and 1007 salary should not be displayed.empid 1013 and 1015 2 days salary should be reduced.
+if entered salary is >20000 then calculation should be performed till 1017.
+
+
+
+
+
+
+
+
